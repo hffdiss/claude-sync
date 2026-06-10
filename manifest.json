@@ -7,6 +7,13 @@
       "os": "darwin",
       "lastSync": "2026-06-10T11:24:36.747Z",
       "registeredAt": "2026-06-10T11:24:36.747Z"
+    },
+    {
+      "machineId": "00cfaedc-huwsnt-07ac013c",
+      "hostname": "00cfaedc-hUwsnT",
+      "os": "win32",
+      "lastSync": "2026-06-10T12:16:28.413Z",
+      "registeredAt": "2026-06-10T12:16:28.413Z"
     }
   ]
 }

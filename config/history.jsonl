@@ -1,0 +1,97 @@
+{"display":"/plugin marketplace add forrestchang/andrej-karpathy-skills","pastedContents":{},"timestamp":1779870277727,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"/plugin install andrej-karpathy-skills@karpathy-skills","pastedContents":{},"timestamp":1779870304982,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"/plugin marketplace add obra/superpowers-marketplace","pastedContents":{},"timestamp":1779870349258,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"/plugin install superpowers@superpowers-marketplace","pastedContents":{},"timestamp":1779870365084,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"在当前目录中拉去https://github.com/hffdiss/beijian.git","pastedContents":{},"timestamp":1779870609689,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"继续构建开发。","pastedContents":{},"timestamp":1779870921738,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"根据当前目录下beijian.xlsx文件表头进行设计.","pastedContents":{},"timestamp":1779872587948,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"部件管理可以模糊搜索","pastedContents":{},"timestamp":1779875315920,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"git提交","pastedContents":{},"timestamp":1779876577921,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"提交到https://github.com/hffdiss/beijian.git","pastedContents":{},"timestamp":1779876745667,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"导入功能可覆盖。","pastedContents":{},"timestamp":1779937057644,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"项目管理、部件管理、BOM管理可以进行修改互相关联。","pastedContents":{},"timestamp":1779940943710,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"BOM详情、项目详情，部件详情可修改、可删除，可新增。互相关联","pastedContents":{},"timestamp":1779941592376,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"Help me fix the issues reported by /doctor below.\n\nFor each issue: briefly explain what the fix will do, then ask me to confirm before running any shell command that deletes files, modifies global config, or changes my installation. Safe read-only checks are fine without asking. If a suggested fix looks wrong for my setup, say so instead of running it.\n\n- Settings (D:\\project_cc\\beijian\\.claude\\settings.json): Invalid or malformed JSON\n\nresum","pastedContents":{},"timestamp":1780306865270,"project":"D:\\project_cc\\beijian","sessionId":"0f2e1c66-7e24-456a-977e-29cf9d2b69c0"}
+{"display":"/exit","pastedContents":{},"timestamp":1780306890655,"project":"D:\\project_cc\\beijian","sessionId":"0f2e1c66-7e24-456a-977e-29cf9d2b69c0"}
+{"display":"/resume","pastedContents":{},"timestamp":1780307569789,"project":"D:\\project_cc\\beijian","sessionId":"1988cdd1-6a2e-4860-9c2e-19057476453f"}
+{"display":"添加系统登录管理","pastedContents":{},"timestamp":1780307646434,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"/resume","pastedContents":{},"timestamp":1780315768343,"project":"D:\\project_cc\\beijian","sessionId":"e1f8511b-ebbb-4850-acb7-efb676ed35e6"}
+{"display":"/claude-api","pastedContents":{},"timestamp":1780316333893,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"登录窗口居中，适合页面。","pastedContents":{},"timestamp":1780317670649,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"用户名密码可以更改，可以添加权限。admin用户默认密码password，登录需要更改。","pastedContents":{},"timestamp":1780318271812,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"用户管理","pastedContents":{},"timestamp":1780318951528,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"修改admin密码为admin123","pastedContents":{},"timestamp":1780319754098,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"页面所有选项，适应web页面布局。","pastedContents":{},"timestamp":1780319924441,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"开始导入需要确认","pastedContents":{},"timestamp":1780326250216,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"推送到github分支","pastedContents":{},"timestamp":1780329621249,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"仪表盘可以点击到对应模块","pastedContents":{},"timestamp":1780365757895,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"出库与入库需要优化，可以像我提建议。","pastedContents":{},"timestamp":1780368173798,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"选择物料的时候可以按已有的模糊搜索","pastedContents":{},"timestamp":1780369143791,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"物料管理和BOM管理这两个比较有没有可优化项","pastedContents":{},"timestamp":1780369563168,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"整个项目审查，看看有哪些需要优化。","pastedContents":{},"timestamp":1780370125818,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"提交到github代码库。","pastedContents":{},"timestamp":1780370951833,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"UI是否需要修改优化","pastedContents":{},"timestamp":1780408918835,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"提交到github","pastedContents":{},"timestamp":1780412869500,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"重新审查本项目，继续优化每个模块。","pastedContents":{},"timestamp":1780412936024,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"机器管理需要添加什么内容","pastedContents":{},"timestamp":1780413165394,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"机器管理页面可以展示已有机器，可以分页。每页可分10，20，最多50行。","pastedContents":{},"timestamp":1780413407095,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"部件管理页面可以展示已有部件，可以分页。每页可分10，20，最多50行。","pastedContents":{},"timestamp":1780413577143,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"页数可以输入页码跳转，同时允许跳转到最后1页","pastedContents":{},"timestamp":1780413755499,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"BOM管理需要添加什么内容","pastedContents":{},"timestamp":1780414149984,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"物料管理需要添加什么内容","pastedContents":{},"timestamp":1780414291326,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"入库需要添加什么内容","pastedContents":{},"timestamp":1780414528152,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"部件管理可以修改","pastedContents":{},"timestamp":1780414808442,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"提交到github","pastedContents":{"1":{"id":1,"type":"text","content":"Runtime TypeError\n\n\n\nmachines.map is not a function"}},"timestamp":1780414984455,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"http://localhost:3000/machines今天回出错","pastedContents":{},"timestamp":1780415010863,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"http://localhost:3000/parts/cmpnuuvyo00y01w33dsodr9bq  编辑会出错","pastedContents":{},"timestamp":1780415365337,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"提交到github","pastedContents":{"1":{"id":1,"type":"text","content":"Runtime TypeError\n\n\n\nmachines.map is not a function"}},"timestamp":1780415550423,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"项目管理每一列都可以排序","pastedContents":{},"timestamp":1780419482522,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"机器管理每一列都可以排序","pastedContents":{},"timestamp":1780419651814,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"BOM管理和物料管理每一列都可以排序","pastedContents":{},"timestamp":1780419891343,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"部件内容太多，有什么好建议。","pastedContents":{},"timestamp":1780500996153,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"出库与入库的界面能不能使用友好界面。","pastedContents":{},"timestamp":1780501403708,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"物料列表搜索不清楚具体的物料名称和编号怎么办","pastedContents":{},"timestamp":1780501662407,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"出入库记录可以优化下","pastedContents":{},"timestamp":1780502105992,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"盘点可以优化下","pastedContents":{},"timestamp":1780502362201,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"盘点是否已经有关联。这个功能要怎么用。","pastedContents":{},"timestamp":1780502565574,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"要","pastedContents":{},"timestamp":1780502602238,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"推到github","pastedContents":{},"timestamp":1780502773357,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"分类管理是不是可以优化。","pastedContents":{},"timestamp":1780503070546,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"用户管理和用户管理是否可以优化","pastedContents":{},"timestamp":1780503288281,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"用户设置是否可以优化","pastedContents":{},"timestamp":1780503503642,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"项目管理是否可以优化","pastedContents":{},"timestamp":1780503718102,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"提交到github","pastedContents":{},"timestamp":1780503835627,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"项目全局审查优化。","pastedContents":{},"timestamp":1780547892438,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"提交到github","pastedContents":{},"timestamp":1780548397034,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"提交的到 main","pastedContents":{},"timestamp":1780560884672,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"机器管理中没有添加、编辑、删除项。要求：项目管理、机器管理、部件管理、BOM管理、物料管理互相关联，","pastedContents":{},"timestamp":1780581834159,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"出库、入库是否应该与其他项目关联","pastedContents":{},"timestamp":1780582293140,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"整体审查，看看整个项目还有没有错误。","pastedContents":{},"timestamp":1780582825465,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"数据导入模块，可以下载导入模板。","pastedContents":{},"timestamp":1780583168835,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"提交到github","pastedContents":{},"timestamp":1780583398739,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"备份数据库是否有优化。","pastedContents":{},"timestamp":1780583806230,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"数据库导入功能","pastedContents":{},"timestamp":1780584154126,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"数据导入和备份管理移动到备份数据库下方","pastedContents":{},"timestamp":1780584361416,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"用户设置和用户管理合并，并且放到下方区域。","pastedContents":{},"timestamp":1780584644567,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"用户设置和用户管理合并","pastedContents":{},"timestamp":1780584886025,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"用户管理模块和用户设置模块合并","pastedContents":{},"timestamp":1780585000516,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"用户管理移动到下方","pastedContents":{},"timestamp":1780585062599,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"侧边栏上面还有用户管理","pastedContents":{},"timestamp":1780585170926,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"提交到github","pastedContents":{},"timestamp":1780585280542,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"用户管理与用户设置能否合并到一个模块中。保留用户管理。","pastedContents":{},"timestamp":1780585415983,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"管理员角色可以看到所有用户","pastedContents":{},"timestamp":1780585654298,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"提交到github","pastedContents":{},"timestamp":1780585841273,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"机器管理中，下拉框显示null。","pastedContents":{},"timestamp":1780840686456,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"左侧边栏可以缩小为图标。","pastedContents":{},"timestamp":1780841057782,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"我需要把项目部署到其它服务器上，要如何做。","pastedContents":{},"timestamp":1780841514314,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"我需要把项目部署到其它服务器上，还有其它方法要如何做。","pastedContents":{},"timestamp":1780843757145,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"合并到main","pastedContents":{},"timestamp":1780885924580,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"/resume","pastedContents":{},"timestamp":1780905352439,"project":"D:\\project_cc\\beijian","sessionId":"341cee45-0102-48b5-967a-2bff8614041d"}
+{"display":"docker构建有问题","pastedContents":{},"timestamp":1780905399897,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"、exo","pastedContents":{},"timestamp":1780905441852,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"/exit","pastedContents":{},"timestamp":1780905449474,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"/resume","pastedContents":{},"timestamp":1780905485291,"project":"D:\\project_cc\\beijian","sessionId":"74968af9-db8b-481f-91fe-73501821e968"}
+{"display":"docker构建有问题","pastedContents":{},"timestamp":1780933535535,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"提交到github main","pastedContents":{},"timestamp":1780935509876,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"npm 开启","pastedContents":{},"timestamp":1780935846714,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}
+{"display":"可以用mysql部署数据库吗","pastedContents":{},"timestamp":1780935977640,"project":"D:\\project_cc\\beijian","sessionId":"135f8adf-dffd-40e6-a336-7bbbb8647b17"}

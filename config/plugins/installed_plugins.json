@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "plugins": {
+    "andrej-karpathy-skills@karpathy-skills": [
+      {
+        "scope": "project",
+        "projectPath": "D:\\project_cc\\beijian",
+        "installPath": "@@CLAUDE_DIR@@\\plugins\\cache\\karpathy-skills\\andrej-karpathy-skills\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-27T08:25:20.620Z",
+        "lastUpdated": "2026-05-27T08:25:20.620Z",
+        "gitCommitSha": "2c606141936f1eeef17fa3043a72095b4765b9c2"
+      }
+    ],
+    "superpowers@superpowers-marketplace": [
+      {
+        "scope": "project",
+        "installPath": "@@CLAUDE_DIR@@\\plugins\\cache\\superpowers-marketplace\\superpowers\\5.1.0",
+        "version": "5.1.0",
+        "installedAt": "2026-05-27T08:26:13.493Z",
+        "lastUpdated": "2026-05-27T08:26:13.493Z",
+        "gitCommitSha": "f2cbfbefebbfef77321e4c9abc9e949826bea9d7",
+        "projectPath": "D:\\project_cc\\beijian"
+      }
+    ]
+  }
+}
