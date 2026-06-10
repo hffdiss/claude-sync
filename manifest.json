@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "machines": [
+    {
+      "machineId": "fhe.local-294a9bf8",
+      "hostname": "fhe.local",
+      "os": "darwin",
+      "lastSync": "2026-06-10T11:24:36.747Z",
+      "registeredAt": "2026-06-10T11:24:36.747Z"
+    }
+  ]
+}
